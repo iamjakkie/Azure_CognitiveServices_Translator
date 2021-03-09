@@ -1,6 +1,6 @@
 import os, requests, uuid, json 
 
-_SUBSCRIPTION_KEY = "e763db208b394e67abcf391be6be562c"
+_SUBSCRIPTION_KEY = ""
 _LOCATION = "westeurope"
 
 def get_translation(text_input, language_output):
